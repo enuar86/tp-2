@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Teko', sans-serif;;
+    font-size: 30px; 
+}
+
+
+nav {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: #131415;
+    padding: 10px;
+    
+
+   }
+
+ul a {
+    color: white;
+    text-decoration: none;
+}
+
+ul {
+    list-style: none;
+    display: flex;
+    gap: 50px;
+    
+}
+
+
+    
+
+
+
+
+
+
